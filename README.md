@@ -57,12 +57,12 @@ Eliminar tarea: Haz clic en el botón "Borrar" junto a la tarea que deseas elimi
 
 ## Contacto
 
-Para cualquier pregunta o sugerencia, por favor contacta a [tu_email@ejemplo.com](mailto:sin datos).
+Para cualquier pregunta o sugerencia, por favor contacta a [Luis Rafael](mailto:Luisrafaeleyoma764@gmail.com).
 
 ---
 
 **Desarrollado por [Xenon001]**
 
 - [GitHub](https://github.com/Xenon001)
-- [LinkedIn](sin datos)
-- [Instagram ](sin datos)
+<!---- [LinkedIn](sin datos)
+- [Instagram ](sin datos) -->
